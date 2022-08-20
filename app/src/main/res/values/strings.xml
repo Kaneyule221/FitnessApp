@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Repfluent V2</string>
+    <string name="title_activity_fitness_menu">FitnessMenu</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_menu_main">MenuMain</string>
+    <string name="title_activity_test">test</string>
+</resources>

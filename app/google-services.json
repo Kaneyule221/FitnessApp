@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "954376066331",
+    "firebase_url": "https://repfleunt-default-rtdb.firebaseio.com",
+    "project_id": "repfleunt",
+    "storage_bucket": "repfleunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954376066331:android:8d6f5847ab21bdf6c32fbe",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954376066331-9abb56qft0fr81voruvggjee98p4866a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkKxSWdPH6U0XPgGa3XaN5LzQY6byNO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954376066331-9abb56qft0fr81voruvggjee98p4866a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954376066331:android:8164d68ce6f95f9ec32fbe",
+        "android_client_info": {
+          "package_name": "com.example.repfluentv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954376066331-9abb56qft0fr81voruvggjee98p4866a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkKxSWdPH6U0XPgGa3XaN5LzQY6byNO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954376066331-9abb56qft0fr81voruvggjee98p4866a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
